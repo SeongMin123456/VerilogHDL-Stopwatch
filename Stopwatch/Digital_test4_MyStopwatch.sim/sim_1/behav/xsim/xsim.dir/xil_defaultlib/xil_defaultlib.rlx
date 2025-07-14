@@ -1,0 +1,18 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/Debounce_ff_tb.v,1741230302,verilog,,,,Debounce_ff_tb,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/control_tb.v,1740127734,verilog,,,,control_tb,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/display_tb.v,1740121980,verilog,,,,display_tb,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/stopwatch_counter_tb.v,1740046487,verilog,,,,stopwatch_counter_tb,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Debounce.v,1740127462,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Stopwatch_Control.v,,Debounce,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Debounce_FF.v,1741230115,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/Debounce_ff_tb.v,,Debounce_FF,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Digit_set.v,1740122930,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Stopwatch_Display.v,,Digit_set,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/H2D.v,1740044501,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/PLS_100Hz.v,,H2D,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/PLS_100Hz.v,1740034473,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Stopwatch_counter.v,,PLS_100Hz,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Stopwatch_Control.v,1740126875,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/control_tb.v,,Stopwatch_Control,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Stopwatch_Display.v,1740123096,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Tick_make.v,,Stopwatch_Display,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Stopwatch_counter.v,1740096878,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/stopwatch_counter_tb.v,,Stopwatch_counter,,,,,,,,
+C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sources_1/new/Tick_make.v,1740364159,verilog,,C:/verilog_lab/Digital_test4_MyStopwatch/Digital_test4_MyStopwatch.srcs/sim_1/new/display_tb.v,,Tick_make,,,,,,,,
